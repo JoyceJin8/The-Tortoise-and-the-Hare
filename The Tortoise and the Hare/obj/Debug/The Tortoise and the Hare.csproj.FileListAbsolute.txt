@@ -1,0 +1,10 @@
+C:\Users\joyce\source\repos\The Tortoise and the Hare\The Tortoise and the Hare\bin\Debug\The Tortoise and the Hare.exe.config
+C:\Users\joyce\source\repos\The Tortoise and the Hare\The Tortoise and the Hare\bin\Debug\The Tortoise and the Hare.exe
+C:\Users\joyce\source\repos\The Tortoise and the Hare\The Tortoise and the Hare\bin\Debug\The Tortoise and the Hare.pdb
+C:\Users\joyce\source\repos\The Tortoise and the Hare\The Tortoise and the Hare\obj\Debug\The Tortoise and the Hare.csprojAssemblyReference.cache
+C:\Users\joyce\source\repos\The Tortoise and the Hare\The Tortoise and the Hare\obj\Debug\The_Tortoise_and_the_Hare.Form1.resources
+C:\Users\joyce\source\repos\The Tortoise and the Hare\The Tortoise and the Hare\obj\Debug\The_Tortoise_and_the_Hare.Properties.Resources.resources
+C:\Users\joyce\source\repos\The Tortoise and the Hare\The Tortoise and the Hare\obj\Debug\The Tortoise and the Hare.csproj.GenerateResource.cache
+C:\Users\joyce\source\repos\The Tortoise and the Hare\The Tortoise and the Hare\obj\Debug\The Tortoise and the Hare.csproj.CoreCompileInputs.cache
+C:\Users\joyce\source\repos\The Tortoise and the Hare\The Tortoise and the Hare\obj\Debug\The Tortoise and the Hare.exe
+C:\Users\joyce\source\repos\The Tortoise and the Hare\The Tortoise and the Hare\obj\Debug\The Tortoise and the Hare.pdb
